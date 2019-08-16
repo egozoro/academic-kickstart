@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Junjun Zhu
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Virginia, Center for Applied Biomechanics
+  url: "https://engineering.virginia.edu/research/centers-institutes/center-applied-biomechanics/research"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -27,15 +27,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Mechancial Engineering
+    institution: University of Pittsburgh
+    year: 2017
+  - course: MSc in Mechancial Engineering
+    institution: Carnegie Mellon University
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Mechancial Engineering
+    institution: Shanghai Jiaotong University
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
