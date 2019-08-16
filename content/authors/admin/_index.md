@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Dr. Zhu is a Postdoctoral Research Associate at the Center for Applied Biomechanics (CAB). He has over 8 years of experience in biomechanics research, spanning topics from abdominal aortic aneurysm risk analysis to the biomechanical behavior of biological tissues. During his graduate work at the University of Pittsburgh, he worked at the Biomechanics Engineering Lab, using computational and experimental biomechanics to investigate ACL injury and ACL reconstructions. Since joining CAB in 2018, he has been focusing on automotive and orthopaedic related injury evaluation and prevention. Additional areas of interest for Dr. Zhu are computational biomechanics, machine learning and medical device design. 
