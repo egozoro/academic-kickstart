@@ -21,9 +21,10 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Medical device design and evaluation
+- Orthopedic related injury evaluation and prevention
+- Automobile occupant injury prediction and modeling
+- Computational mechanics and finite element methods
 
 education:
   courses:
